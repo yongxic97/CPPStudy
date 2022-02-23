@@ -21,3 +21,17 @@ Just the very basic hello world program.
 2. CPP_namepace
 
 Learn about namespace in C++.
+
+$$
+\begin{Bmatrix}
+   a & b \\
+   c & d
+\end{Bmatrix}
+$$
+$$
+\begin{CD}
+   A @>a>> B \\
+@VbVV @AAcA \\
+   C @= D
+\end{CD}
+$$
